@@ -1,5 +1,6 @@
-📊 #BlinkIT Sales Analysis
-📝 #Project Overview
+#BlinkIT Sales Analysis
+
+#Project Overview
 
 This project presents a comprehensive analysis of BlinkIT's retail sales data. It explores product performance, customer preferences, and outlet effectiveness using SQL for data processing, Excel and Power BI for visualization, and Python for data wrangling and automation.
 
